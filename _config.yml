@@ -28,19 +28,18 @@
 
 
 header_pages:
-  - Handbook.md
+  - Introduction.md
+  - Questions.md
+  - Galaxy.md
   - Faq.md
   - Links.md
-  - Questions.md
-  - Syllabus.md
-  - Galaxy.md
 
 
 
 
 
 markdown: kramdown
-title: Math for AI
+title: Coder's High
 email: sudarshansudarshan@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
