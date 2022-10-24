@@ -5,5 +5,4 @@
 layout: home
 ---
 
-This is a homepage for the course **Math for AI**. The most important document is the [handbook](/plakshamath/handbook/). Ensure that you read this document completely. Note that the [FAQ](/plakshamath/faq/) section of the handbook will keep growing, Make sure you look it up once in a while.  The syllabus for the course is available [here](/plakshamath/syllabus/).
-
+This is a homepage for the members of Coder's High group. Check the [FAQ](/codershigh/faq/)  if you are here for the first time. Check the [Questionverse](/codershigh/questionverse/)  and get started with your learning. 
