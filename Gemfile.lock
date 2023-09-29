@@ -68,6 +68,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
+  universal-darwin-23
 
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
@@ -80,4 +81,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.4.18
+   2.3.7
