@@ -1,0 +1,102 @@
+I"<ul id="markdown-toc">
+  <li><a href="#module-1" id="markdown-toc-module-1">Module 1</a></li>
+  <li><a href="#module-2" id="markdown-toc-module-2">Module 2</a></li>
+</ul>
+<h1 id="module-1">Module 1</h1>
+
+<p><strong>1</strong>. Plot the lines \(y=x\), \(y=2x\), \(y=10x\).</p>
+
+<p><strong>2</strong>. Observe that they all pass through the origin. Why?</p>
+
+<p><strong>3</strong>. Plot \(y=2x+1\). Why doesn’t it pass through the origin?</p>
+
+<p><strong>4</strong>. Plot \(y=ax+b\), with \(a\) and $b$ as parameters which you should be able to varry. What do youaa observe?</p>
+
+<p><strong>5</strong>. Consider the following simultaneous equation:<br /></p>
+
+<p>2x+3y=7 <br />
+3x+4y=10 <br /></p>
+
+<p>Do you see a 2x2 matrix here? What is the importance of seeing a matrix in this problem? Why study matrices in general?<br /></p>
+
+<p>Do you observe that this problem can be retold as: <br /></p>
+
+<p>\(\left( \begin{matrix} 2 &amp; 3 \\3 &amp; 4 \\\end{matrix}\right)\)
+\(\left(
+\begin{matrix}
+x\\
+y\\
+\end{matrix}
+\right)\)
+=\(\left(
+\begin{matrix}
+7\\
+10\\
+\end{matrix}
+\right)\)</p>
+
+<p><strong>6</strong>. Consider the function \(\phi : \mathbb{R}\rightarrow \mathbb{R}\) defined by \(\phi (x,y)=(2x+3y,3x+4y)\). What has this to do with the previous question?</p>
+
+<p><strong>7</strong>. Is the function \(\phi\) 1-1 and onto? is this function invertible? In the question above on matrices, we see that it is of the form \(Ax=b\). Note that we can invert the matrix and find out the value for the variables x and y. This is one of the many applications of matrices.</p>
+
+<p>8. Use geogebra to find the range of the above function \(\phi (x,y)=(2x+3y,3x+4y)\).</p>
+
+<p>9. We will now see matrices as functions. Instead of \(\phi\) we will write the matrix itself: <br /></p>
+
+<p>\(\left( \begin{matrix} 2 &amp; 3 \\3 &amp; 4 \\\end{matrix}\right) : \mathbb{R} \rightarrow \mathbb{R}\). What is the range of this matrix?</p>
+
+<p><strong>10</strong>. Consider the function \(\left( \begin{matrix} 1 &amp; 2 \\2 &amp; 4 \\\end{matrix}\right) : \mathbb{R} \rightarrow \mathbb{R}\). What is the range of this matrix? This function takes some elements of the domain to \((0,0)\). What are those elements? Plot this using Geogebra.</p>
+
+<h1 id="module-2">Module 2</h1>
+
+<hr />
+<ol>
+  <li>
+    <p>We encounter equations very often in our lives. Consider for example, the following situation at <strong><em>Baker’s Cafe</em></strong>. The manager has a very important estimate to make. Mostly, visitors at his cafe happen to be families and they are often comprised of Children and/or Adults. He observes that there are 3 adults and 1 child at a table and their bill turns out to be Rs.1200/-. There is yet another table with 2 children and 1 adult and their bill comes out to be Rs.1000/-. Can the manager estimate the consumption of a Child/Adult? This is popularly called the <em>Simultaneous Equations</em> and we all remember from our school days, multiple ways in which these can be solved.<br />
+\(3A + 1C = 1200\) <br />
+\(1A + 2C = 1000\)</p>
+  </li>
+  <li>
+    <p>While we were taught the so called two variables and two unknowns, what if there were more equations than unknowns?<br />
+\(3A + 1C = 1200\) <br />
+\(1A + 2C = 1000\)  <br />
+\(1A + 1C =  900\)</p>
+  </li>
+  <li>
+    <p>Note that the previous question can be modelled as a matrix:</p>
+
+    <p>\(3A + 1C = 1200\) <br />
+\(1A + 2C = 1000\)  <br />
+\(1A + 1C =  900\)</p>
+
+    <p><u>Observe</u> this is same as :</p>
+
+    <p>\(\left( \begin{matrix} 3 &amp; 1 \\1 &amp; 2 \\1 &amp; 1 \\\end{matrix}\right)\)
+\(\left(
+\begin{matrix}
+B\\
+C\\
+\end{matrix}
+\right)\)
+=
+\(\left(
+ \begin{matrix}
+ 1200\\
+ 1000\\
+ 900\\
+ \end{matrix}
+\right)\)</p>
+  </li>
+  <li>
+    <p>The best way to solve is, is to guess the values :-). Can you write a python code to guess the values?</p>
+  </li>
+  <li>
+    <p>How do you solve this mathematically? There are two nice ways of solving this:</p>
+    <ul>
+      <li>Model this as a question of inverting a rectangular matrix and find the solution. (Whoa! my teacher never taught me that!)</li>
+      <li>Model this as a funtion of two variables and solve it using partial differentiation (Eeks!)</li>
+    </ul>
+  </li>
+</ol>
+
+:ET
