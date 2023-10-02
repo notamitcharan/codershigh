@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oceanverse 
+title: Matrix Mystics
 order: 5
 permalink: /matrixmystics/
 ---
