@@ -40,7 +40,7 @@ y\\
 \end{matrix}
 \right)$$
 
-**6**\. Consider the function $$\phi : \mathbb{R}\rightarrow \mathbb{R}$$ defined by $$\phi (x,y)=(2x+3y,3x+4y)$$. What has this to do with the previous question?
+**6**\. Consider the function $$\phi : \mathbb{R}^2\rightarrow \mathbb{R}^2$$ defined by $$\phi (x,y)=(2x+3y,3x+4y)$$. What has this to do with the previous question?
 
 **7**\. Is the function $$\phi$$ 1-1 and onto? is this function invertible? In the question above on matrices, we see that it is of the form $$Ax=b$$. Note that we can invert the matrix and find out the value for the variables x and y. This is one of the many applications of matrices.  
 
