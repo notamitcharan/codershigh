@@ -2,7 +2,7 @@
 layout: page
 title: Oceanverse 
 order: 5
-permalink: /oceanverse/
+permalink: /matrixmystics/
 ---
 
 * TOC
