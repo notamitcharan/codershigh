@@ -48,7 +48,7 @@ y\\
 
 **9**\. We will now see matrices as functions. Instead of $$\phi$$ we will write the matrix itself: <br>
 
-$$\left( \begin{matrix} 2 & 3 \\3 & 4 \\\end{matrix}\right) : \mathbb{R} \rightarrow \mathbb{R}$$. What is the range of this matrix?
+$$\left( \begin{matrix} 2 & 3 \\3 & 4 \\\end{matrix}\right) : \mathbb{R}^2 \rightarrow \mathbb{R}^2$$. What is the range of this matrix?
 
 **10**\. Consider the function $$\left( \begin{matrix} 1 & 2 \\2 & 4 \\\end{matrix}\right) : \mathbb{R} \rightarrow \mathbb{R}$$. What is the range of this matrix? This function takes some elements of the domain to $$(0,0)$$. What are those elements? Plot this using Geogebra.
 
