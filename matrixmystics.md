@@ -111,4 +111,4 @@ $$
 
 4. One obvious way to solve this, is to guess the values :-). Can you get closer to the solution by guessing? Note that there is no solution to this question. You can just reduce the error. Do you see why?
 
-5.  ![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+5.  ![Alt text](images/markov1.png "a title")
