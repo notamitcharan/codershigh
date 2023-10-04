@@ -1,4 +1,4 @@
-I"T<ul id="markdown-toc">
+I"J<ul id="markdown-toc">
   <li><a href="#module-1" id="markdown-toc-module-1">Module 1</a></li>
   <li><a href="#module-2" id="markdown-toc-module-2">Module 2</a></li>
 </ul>
@@ -118,9 +118,8 @@ C\\
  \end{matrix}
 \right)\)</p>
   </li>
-  <li>
-    <p>One obvious way to solve this, is to guess the values :-). Can you get closer to the solution by guessing? Note that there is no solution to this question. You can just reduce the error. Do you see why?</p>
-  </li>
-  <li><img src="/assets/christ.jpg" alt="My helpful screenshot" /></li>
+  <li>One obvious way to solve this, is to guess the values :-). Can you get closer to the solution by guessing? Note that there is no solution to this question. You can just reduce the error. Do you see why?</li>
 </ol>
+
+<p>.  <img src="/assets/markov1.jpg.jpg" alt="My helpful screenshot" /></p>
 :ET

@@ -111,4 +111,7 @@ $$
 
 4. One obvious way to solve this, is to guess the values :-). Can you get closer to the solution by guessing? Note that there is no solution to this question. You can just reduce the error. Do you see why?
 
-5.  ![My helpful screenshot](/assets/christ.jpg)
+5. In the figure below:
+![](/assets/markov1.jpg)
+If 1000 people were to state in one state, what will be the distribution of people eventually?
+
