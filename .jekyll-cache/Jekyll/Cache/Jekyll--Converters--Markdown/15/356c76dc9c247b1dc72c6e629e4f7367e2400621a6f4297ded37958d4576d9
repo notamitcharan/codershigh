@@ -1,4 +1,4 @@
-I"t<ul id="markdown-toc">
+I"š<ul id="markdown-toc">
   <li><a href="#module-1" id="markdown-toc-module-1">Module 1</a></li>
   <li><a href="#module-2" id="markdown-toc-module-2">Module 2</a></li>
 </ul>
@@ -123,11 +123,11 @@ C\\
   </li>
   <li>
     <p>In the figure below:
-<img src="/assets/markov2.jpg" alt="fig1" />
+<img src="matrixmystics/assets/markov2.png" alt="fig1" />
 If 1000 people were to state in one state, what will be the distribution of people eventually?</p>
   </li>
   <li>In the figure below:
-<img src="/assets/markov3.jpg" alt="fig2" />
+<img src="/codershigh/matrixmystics/assets/markov3.png" alt="fig2" />
 If 1000 people were to state in one state, what will be the distribution of people eventually?</li>
 </ol>
 

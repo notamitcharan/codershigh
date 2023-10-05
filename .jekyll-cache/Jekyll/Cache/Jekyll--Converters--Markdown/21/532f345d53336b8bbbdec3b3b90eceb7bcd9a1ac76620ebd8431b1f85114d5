@@ -1,4 +1,4 @@
-I"C<ul id="markdown-toc">
+I"Œ<ul id="markdown-toc">
   <li><a href="#module-1" id="markdown-toc-module-1">Module 1</a></li>
   <li><a href="#module-2" id="markdown-toc-module-2">Module 2</a></li>
 </ul>
@@ -118,8 +118,17 @@ C\\
  \end{matrix}
 \right)\)</p>
   </li>
-  <li>One obvious way to solve this, is to guess the values :-). Can you get closer to the solution by guessing? Note that there is no solution to this question. You can just reduce the error. Do you see why?</li>
+  <li>
+    <p>One obvious way to solve this, is to guess the values :-). Can you get closer to the solution by guessing? Note that there is no solution to this question. You can just reduce the error. Do you see why?</p>
+  </li>
+  <li>
+    <p>In the figure below:
+<img src="assets/markov2.png" alt="fig1" />
+If 1000 people were to state in one state, what will be the distribution of people eventually?</p>
+  </li>
+  <li>In the figure below:
+<img src="/codershigh/matrixmystics/assets/markov3.png" alt="fig2" />
+If 1000 people were to state in one state, what will be the distribution of people eventually?</li>
 </ol>
 
-<p><img src="/assets/markov1.jpg" alt="My helpful screenshot" /></p>
 :ET
