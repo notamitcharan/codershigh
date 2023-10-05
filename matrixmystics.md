@@ -113,9 +113,9 @@ $$
 
 5. In the figure below:
 ![fig1](/codershigh/assets/markov2.png)
-If 1000 people were to state in one state, what will be the distribution of people eventually?
+If 1000 people were to start in one state, what will be the distribution of people eventually?
 
 5. In the figure below:
 ![fig2](/codershigh/assets/markov3.png)
-If 1000 people were to state in one state, what will be the distribution of people eventually?
+If 1000 people were to start in one state, what will be the distribution of people eventually?
 
