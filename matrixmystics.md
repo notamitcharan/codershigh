@@ -25,8 +25,8 @@ permalink: /matrixmystics/
 
 5. Consider the following simultaneous equation:
 
-   2x+3y=7 <br>
-   3x+4y=10 <br>
+   $$2x+3y=7$$ <br>
+   $$3x+4y=10$$ <br>
 
    Do you see a 2x2 matrix here? What is the importance of seeing a matrix in this problem? Why study matrices in general?<br>Do you observe that this problem can be retold as: <br>$$ \left( \begin{matrix} 2 & 3 \\3 & 4 \\\end{matrix}\right) $$
    $$\left(
